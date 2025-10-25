@@ -86,4 +86,4 @@ Examples:
 ---
 
 > “Generative AI is where creativity meets computation.”  
-> — *Nik*
+> — *Narayan Mishra*
