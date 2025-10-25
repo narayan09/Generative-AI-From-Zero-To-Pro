@@ -20,3 +20,4 @@ You'll find:
 - 🚀 Real-world **GenAI applications** (chatbots, content generation, image synthesis, etc.)
 
 ---
+/basics/, /image-generation/, /text-generation/, /projects/, /deployment/, /resources/
