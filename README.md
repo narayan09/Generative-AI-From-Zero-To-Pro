@@ -22,6 +22,7 @@ You'll find:
 ---
 
 ## 📂 Repository Structure
+
 GenAI-Guide/
 │
 ├── 01_Basics_of_Generative_AI/
