@@ -22,4 +22,34 @@ You'll find:
 ---
 
 ## 📂 Repository Structure
-
+GenAI-Guide/
+│
+├── 01_Basics_of_Generative_AI/
+│ ├── What_is_Generative_AI.md
+│ ├── Key_Concepts.md
+│ └── Traditional_vs_Generative_Models.md
+│
+├── 02_Types_of_GenAI_Models/
+│ ├── GANs.md
+│ ├── VAEs.md
+│ ├── Diffusion_Models.md
+│ └── Transformers_and_LLMs.md
+│
+├── 03_Frameworks_and_Tools/
+│ ├── PyTorch_Implementation.md
+│ ├── HuggingFace_Tutorial.md
+│ ├── LangChain_Guide.md
+│ └── OpenSource_Models_List.md
+│
+├── 04_Applications/
+│ ├── Text_Generation.md
+│ ├── Image_Generation.md
+│ ├── Video_Generation.md
+│ ├── Audio_and_Voice_AI.md
+│ └── Agents_and_Automation.md
+│
+├── 05_Ethics_and_Safety/
+│ ├── Responsible_AI_Principles.md
+│ └── AI_Regulations_and_Bias.md
+│
+└── README.md
