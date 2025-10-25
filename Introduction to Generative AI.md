@@ -2,6 +2,10 @@
 
 Generative AI (GenAI) is a branch of Artificial Intelligence that focuses on **creating new content** — like text, images, music, videos, or code — rather than just analyzing existing data.
 
+### 01 — Basics of Generative AI
+- [What is Generative AI?]
+- [History and Evolution]
+- [Key Applications of Generative AI]
 ---
 
 ## 🤖 What is Generative AI?
