@@ -22,7 +22,7 @@
 ## 1. Introduction to LangChain
 
 ### What is LangChain?
-LangChain is an open-source framework designed to simplify the development of applications powered by Large Language Models (LLMs). It provides a modular architecture that enables developers to build context-aware, production-ready AI applications efficiently[18].
+LangChain is an open-source framework designed to simplify the development of applications powered by Large Language Models (LLMs). It provides a modular architecture that enables developers to build context-aware, production-ready AI applications efficiently.
 
 ### Why LangChain?
 - **Modular Components**: Reusable building blocks for prompts, models, chains, and agents
@@ -59,6 +59,19 @@ pip install langchain-core
 pip install langchain-openai        # For OpenAI
 pip install langchain-anthropic     # For Claude
 pip install langchain-google-genai  # For Google Gemini
+
+# For 100% Local & Private (No Internet After Setup):
+- LLM: Ollama with Llama 3.1 or Mistral
+- Embeddings: Sentence Transformers (all-MiniLM-L6-v2)
+- Vector DB: Chroma (persistent) or FAISS (fast)
+- Monitoring: Skip LangSmith or use free tier
+
+# For Best Performance (Minimal APIs):
+
+- LLM: Ollama locally OR Hugging Face API (free tier)
+- Embeddings: Sentence Transformers (local)
+- Vector DB: Chroma or FAISS (local)
+- Monitoring: LangSmith free tier (5k traces/month)
 
 # For RAG and vector databases
 pip install langchain-chroma
