@@ -161,6 +161,21 @@ from langchain_core.messages import (
 system_msg = SystemMessage(content="You are a helpful assistant")
 human_msg = HumanMessage(content="Hello, how are you?")
 ai_msg = AIMessage(content="I'm doing well, thank you!")
+
+# Using Ollama 
+messages = [
+    SystemMessage(content="You are a helpful assistant."),
+    HumanMessage(content="Hello, how are you?"),
+    AIMessage(content="I'm doing well, thank you!"),
+    HumanMessage(content="Can you explain LangChain in simple terms?")
+]
+
+# Step 3: Send the conversation to the model
+response = llm.invoke(messages)
+
+# Step 4: Display the result
+print(response.content)
+
 ```
 
 ### 3.2 Models
