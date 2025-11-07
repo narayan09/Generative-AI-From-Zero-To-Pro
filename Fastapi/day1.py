@@ -4,10 +4,10 @@ uvicorn day1:app --reload
 from pydantic import BaseModel
 
 '''
-from fastapi import FastAPI
+from fastapi import FastAPI # pyright: ignore[reportMissingImports]
 from typing import Optional, List
 from pydantic import BaseModel
-from fastapi import HTTPException, status
+from fastapi import HTTPException, status # pyright: ignore[reportMissingImports]
 
 
 app = FastAPI()

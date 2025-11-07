@@ -1,4 +1,4 @@
-from langchain_ollama import ChatOllama
+from langchain_ollama import ChatOllama # pyright: ignore[reportMissingImports]
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.messages import SystemMessage, HumanMessage, AIMessage
