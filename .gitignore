@@ -1,0 +1,20 @@
+# Python cache and environment
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.env/
+.venv/
+env/
+ollama_langchain_lab_venv/
+apps/Hugging_Face/.env
+
+# VS Code
+.vscode/
+
+# IDE files
+.idea/
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
