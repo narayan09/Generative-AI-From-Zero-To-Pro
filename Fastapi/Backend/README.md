@@ -12,3 +12,11 @@ This backend provides:
 ## 📁 Project Structure
 
 app.py
+
+🧪 Example Request (Swagger UI)
+{
+  "prompt": "Write a detailed explanation of AI.",
+  "model": "llama3",
+  "token_limit": 50
+}
+

@@ -1,5 +1,5 @@
-from fastapi import FastAPI, HTTPException, status, Depends
-from fastapi.security import HTTPBearer, HTTPAuthorizationCredentials
+from fastapi import FastAPI, HTTPException, status, Depends # type: ignore
+from fastapi.security import HTTPBearer, HTTPAuthorizationCredentials # type: ignore
 import secrets
 import ollama   # <-- NEW
 
@@ -38,6 +38,7 @@ def verify_token(credentials: HTTPAuthorizationCredentials = Depends(security)):
 def ask_ollama(request: dict, _: bool = Depends(verify_token)):
     prompt = request.get("prompt")
     model = request.get("model", "phi3:mini")  # default model
+    token_limit = request.get("token_limit", 100)  # default: 100 tokens
 
     if not prompt:
         raise HTTPException(status_code=400, detail="Prompt is required.")
@@ -48,7 +49,10 @@ def ask_ollama(request: dict, _: bool = Depends(verify_token)):
             model=model,
             messages=[
                 {"role": "user", "content": prompt}
-            ]
+            ],
+            options={
+                "num_predict": token_limit
+            }
         )
         return {"response": response["message"]["content"]}
 

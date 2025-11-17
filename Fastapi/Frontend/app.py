@@ -27,6 +27,16 @@ if st.button("Generate Token"):
     except Exception as e:
         st.error(f"Error generating token: {e}")
 
+# --- Token Limit Section ---
+st.subheader("⚙️ Token Limit for LLM Response")
+
+token_limit = st.number_input(
+    "Set maximum tokens for LLM response",
+    min_value=10,
+    max_value=2000,
+    value=100,
+    step=10
+)
 # --- Chat Section ---
 st.subheader("💭 Ask the LLM")
 
@@ -39,7 +49,7 @@ if st.button("Send to LLM"):
         try:
             response = requests.post(
                 f"{FASTAPI_URL}/ask-ollama",
-                json={"prompt": prompt},
+                json={"prompt": prompt,"token_limit": token_limit},
                 headers={"Authorization": f"Bearer {st.session_state.api_token}"}
             )
             
