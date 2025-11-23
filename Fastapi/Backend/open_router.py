@@ -3,6 +3,7 @@ from dotenv import load_dotenv
 from langchain_openai import ChatOpenAI # type: ignore
 from fastapi import APIRouter, HTTPException, Depends # type: ignore
 from auth import verify_token
+from langsmith import traceable
 
 load_dotenv()
 router = APIRouter()   # <-- IMPORTANT
@@ -33,6 +34,7 @@ class OpenRouterConfig:
         )
 
 @router.post("/ask_prompt")   # <-- now this becomes part of router
+@traceable
 def ask_prompt(request: dict, _: bool = Depends(verify_token)):
     prompt = request.get("prompt")
     if not prompt:
