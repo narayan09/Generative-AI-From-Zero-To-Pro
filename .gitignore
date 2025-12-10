@@ -12,6 +12,9 @@ apps/Hugging_Face/.env/
 # VS Code
 .vscode/
 
+*.sh
+!deploy.sh
+
 # IDE files
 .idea/
 
