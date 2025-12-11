@@ -132,16 +132,9 @@ text
 | OpenRouter auth error | Verify `OPENROUTER_API_KEY` environment variable is set correctly |
 | Model not found | Check model name spelling and availability on Ollama/OpenRouter |
 
-## License
-
-MIT License - feel free to use this in your projects!
-
----
-
-**Happy building with CrewAI!** For questions or issues, please open an issue in this repository.
-Would you like me to also create a requirements.txt file with specific version pins for the dependencies?
 
 
+**Happy building with CrewAI!** 
 
 
 
