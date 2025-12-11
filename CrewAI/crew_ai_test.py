@@ -132,7 +132,7 @@ if __name__ == "__main__":
     # response = run_crew_with_phi3("Write 5 benefits of learning Agentic AI.")
     # print("\nFinal Output:\n", response)
 
-    response = run_crew_with_openrouter("Give me 5 unique business ideas in AI.")
-    print("\nFinal Output:\n", response)
+    # response = run_crew_with_openrouter("Give me 5 unique business ideas in AI.")
+    # print("\nFinal Output:\n", response)
 
-    #print(os.getenv("OPENROUTER_API_KEY"))
+    print(os.getenv("OPENROUTER_API_KEY"))
