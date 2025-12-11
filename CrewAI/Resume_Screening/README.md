@@ -16,6 +16,7 @@
 **Total**: 1,200+ lines of production code with comprehensive comments
 
 ![Chat Interface](Screenshot_11-12-2025_211834_172.18.111.123.jpeg)
+![Chat Interface](Screenshot_11-12-2025_212049_172.18.111.123.jpeg)
 ---
 
 ## 📋 Complete Setup (5 Minutes)
