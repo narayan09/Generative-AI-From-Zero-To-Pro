@@ -25,21 +25,21 @@ It demonstrates:
 ### 1️⃣ Zero-Shot Prompting
 No examples, only instruction.
 
-```text
-Explain chunking in RAG systems.
-OpenRouter LLM Integration
-Why OpenRouter?
 
-Free access to models
+### Explain chunking in RAG systems.
+## OpenRouter LLM Integration
+## Why OpenRouter?
 
-OpenAI-compatible API
+   Free access to models
 
-Easy model switching
+   OpenAI-compatible API
 
-Model Used
-openai/gpt-3.5-turbo
+   Easy model switching
 
-LLM Call Flow
+## Model Used
+   openai/gpt-3.5-turbo
+
+## LLM Call Flow
 User Question
    ↓
 Prompt Builder
@@ -48,17 +48,17 @@ OpenRouter API
    ↓
 LLM Response
 
-🔐 Environment Setup
-.env
-OPENROUTER_API_KEY=sk-xxxx
-OPENROUTER_URL=https://openrouter.ai/api/v1/chat/completions
+## 🔐 Environment Setup
+   .env
+      OPENROUTER_API_KEY=sk-xxxx
+   OPENROUTER_URL=https://openrouter.ai/api/v1/chat/completions
 
-.gitignore
-.env
-__pycache__/
-*.db
+## .gitignore
+   .env
+   __pycache__/
+   *.db
 
-📄 Document Ingestion
+## 📄 Document Ingestion
 
 Supported formats:
 
