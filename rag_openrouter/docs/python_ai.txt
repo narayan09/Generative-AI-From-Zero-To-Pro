@@ -1,0 +1,8 @@
+Python is a high-level programming language created by Guido van Rossum.
+It is widely used in artificial intelligence, machine learning, and data science.
+
+FastAPI is a modern Python web framework used to build APIs quickly.
+It is based on Starlette and Pydantic.
+
+Retrieval Augmented Generation (RAG) is a technique that combines
+document retrieval with large language models to provide accurate answers.

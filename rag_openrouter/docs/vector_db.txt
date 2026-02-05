@@ -1,0 +1,2 @@
+Vector databases store embeddings for similarity search.
+FAISS is a popular open-source vector database.

@@ -1,0 +1,3643 @@
+[
+  {
+    "source": "python_ai.txt",
+    "type": "txt"
+  },
+  {
+    "source": "python_ai.txt",
+    "type": "txt"
+  },
+  {
+    "source": "python_ai.txt",
+    "type": "txt"
+  },
+  {
+    "source": "python_ai.txt",
+    "type": "txt"
+  },
+  {
+    "source": "python_ai.txt",
+    "type": "txt"
+  },
+  {
+    "source": "python_ai.txt",
+    "type": "txt"
+  },
+  {
+    "source": "llm.txt",
+    "type": "txt"
+  },
+  {
+    "source": "llm.txt",
+    "type": "txt"
+  },
+  {
+    "source": "vector_db.txt",
+    "type": "txt"
+  },
+  {
+    "source": "vector_db.txt",
+    "type": "txt"
+  },
+  {
+    "source": "rag.txt",
+    "type": "txt"
+  },
+  {
+    "source": "rag.txt",
+    "type": "txt"
+  },
+  {
+    "source": "fastapi.txt",
+    "type": "txt"
+  },
+  {
+    "source": "fastapi.txt",
+    "type": "txt"
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 1
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 1
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 1
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 1
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 1
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 1
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 2
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 3
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 3
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 3
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 3
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 3
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 3
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 3
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 3
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 3
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 3
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 3
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 3
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 3
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 3
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 3
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 3
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 3
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 3
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 3
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 3
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 3
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 3
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 3
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 3
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 3
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 3
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 3
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 3
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 3
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 3
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 3
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 3
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 4
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 5
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 5
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 5
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 5
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 5
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 5
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 5
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 5
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 5
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 5
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 5
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 5
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 5
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 5
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 5
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 5
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 5
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 5
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 5
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 5
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 5
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 5
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 6
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 6
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 6
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 6
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 6
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 6
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 6
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 6
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 6
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 6
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 6
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 6
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 6
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 6
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 6
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 6
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 6
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 6
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 6
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 6
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 6
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 6
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 6
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 6
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 7
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 8
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 8
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 8
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 8
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 8
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 8
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 8
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 8
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 8
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 8
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 8
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 8
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 8
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 8
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 8
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 8
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 8
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 8
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 8
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 8
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 8
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 8
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 8
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 8
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 8
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 8
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 8
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 8
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 8
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 8
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 8
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 8
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 8
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 8
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 8
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 9
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 10
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 10
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 10
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 10
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 10
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 10
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 10
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 10
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 10
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 10
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 10
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 10
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 10
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 10
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 10
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 10
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 10
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 10
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 10
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 10
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 10
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 10
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 10
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 10
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 10
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 10
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 10
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 10
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 10
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 10
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 10
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 10
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 10
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 10
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 11
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 12
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 12
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 12
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 12
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 12
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 12
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 12
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 12
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 12
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 12
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 12
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 12
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 12
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 12
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 12
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 12
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 12
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 12
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 12
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 12
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 12
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 13
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 14
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 14
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 14
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 14
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 14
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 14
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 14
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 14
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 14
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 14
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 14
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 14
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 14
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 14
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 14
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 14
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 14
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 14
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 14
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 14
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 14
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 14
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 14
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 14
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 14
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 14
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 14
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 14
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 14
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 14
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 14
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 14
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 14
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 14
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 14
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 14
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "building-blocks-of-rag-ebook-final.pdf",
+    "type": "pdf",
+    "page": 15
+  },
+  {
+    "source": "knowledge.db",
+    "type": "sqlite",
+    "row_id": 1
+  },
+  {
+    "source": "knowledge.db",
+    "type": "sqlite",
+    "row_id": 2
+  },
+  {
+    "source": "knowledge.db",
+    "type": "sqlite",
+    "row_id": 3
+  },
+  {
+    "source": "knowledge.db",
+    "type": "sqlite",
+    "row_id": 4
+  }
+]
