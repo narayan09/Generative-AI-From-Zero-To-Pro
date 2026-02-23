@@ -1,0 +1,14 @@
+# scripts/generate_dummy_csv.py
+import pandas as pd
+
+data = [
+    {"Name": "John Doe", "ResumeText": "Python developer with ML experience and AI projects."},
+    {"Name": "Jane Smith", "ResumeText": "Data Scientist skilled in Python, SQL, and data analysis."},
+    {"Name": "Mark Taylor", "ResumeText": "AI & Automation Engineer with RPA and Python experience."},
+    {"Name": "Lisa Chen", "ResumeText": "ML Engineer experienced in NLP, deep learning, and deployment."},
+    {"Name": "Alex Johnson", "ResumeText": "Software Engineer with Python, AI, and cloud skills."},
+]
+
+df = pd.DataFrame(data)
+df.to_csv("data/sample_candidates.csv", index=False)
+print("CSV with dummy resumes generated!")
