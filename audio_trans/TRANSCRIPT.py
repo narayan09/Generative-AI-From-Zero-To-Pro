@@ -61,10 +61,6 @@ Meeting Summary:
 Key Discussion Points:
 - Important topics discussed in the meeting
 
-Rotation Discussion:
-- Extract all information related to rotation
-- Mention what rotation was discussed
-- Mention systems, teams, or schedules related to rotation
 
 Decisions Taken:
 - List any decisions made during the meeting
