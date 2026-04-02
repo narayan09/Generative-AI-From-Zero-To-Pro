@@ -306,6 +306,8 @@ Each tool has:
   }
 }
 
+---
+
 ## 🔷 Resources (Data Layer)
 
 ### 👉 What they are
@@ -331,7 +333,7 @@ Static or dynamic data exposed to the LLM.
 ### 👉 Key idea
 > **Resources = Knowledge the LLM can access**
 
----
+
 
 ## 🔁 Full Flow (Putting It All Together)
 
