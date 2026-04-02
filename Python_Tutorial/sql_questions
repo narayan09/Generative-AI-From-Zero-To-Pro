@@ -1,0 +1,78 @@
+CREATE TABLE employees (
+    emp_id INT PRIMARY KEY AUTO_INCREMENT,
+    emp_name VARCHAR(50),
+    department_id INT,
+    salary INT,
+    join_date DATE
+);
+
+CREATE TABLE departments (
+    department_id INT PRIMARY KEY AUTO_INCREMENT,
+    department_name VARCHAR(50)
+);
+
+CREATE TABLE projects (
+    project_id INT PRIMARY KEY AUTO_INCREMENT,
+    project_name VARCHAR(50),
+    emp_id INT
+);
+
+INSERT INTO departments (department_name) VALUES
+('HR'),
+('IT'),
+('Finance'),
+('Sales');
+
+INSERT INTO employees (emp_name, department_id, salary, join_date) VALUES
+('Rahul',1,40000,'2022-01-10'),
+('Amit',2,70000,'2021-05-15'),
+('Priya',2,80000,'2020-03-20'),
+('Neha',3,60000,'2023-02-12'),
+('Ravi',4,45000,'2022-11-01'),
+('Ankit',2,90000,'2019-08-25');
+
+INSERT INTO projects (project_name, emp_id) VALUES
+('AI Chatbot',2),
+('Ecommerce Website',3),
+('Finance Dashboard',4),
+('Sales App',5);
+
+Difference between DELETE, TRUNCATE, DROP
+Command	Description
+DELETE	Remove specific rows
+TRUNCATE	Remove all rows
+DROP	Delete table completely
+
+Find all employees
+Find employees with salary > 50000
+Find employees from IT department
+Find total employees
+Find highest salary
+Find second highest salary
+Find employees with department nam
+Find number of employees in each department
+Find departments with more than 2 employees
+Find employees who are not assigned to any project
+Find top 3 highest salary employees
+Window Function Syntax
+    FUNCTION_NAME() OVER(
+        PARTITION BY column
+        ORDER BY column
+    )
+select emp_name,salary,row_number() over (order by salary desc) as rank_num from employees
+
+SELECT 
+emp_name,
+salary,
+ROW_NUMBER() OVER(ORDER BY salary DESC) as row_num,
+RANK() OVER(ORDER BY salary DESC) as rank_num,
+DENSE_RANK() OVER(ORDER BY salary DESC) as dense_rank
+FROM employees;
+
+Result example:
+
+name	salary	row_number	rank	dense_rank
+Ankit	90000	1	          1	        1
+Suresh	90000	2	          1	        1
+Priya	80000	3	          3	        2
+Karan	80000	4	          3	        2

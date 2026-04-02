@@ -9,6 +9,8 @@ venv/
 env/
 ollama_langchain_lab_venv/
 apps/Hugging_Face/.env/
+**/.ipynb_checkpoints/
+wms-project/
 
 # VS Code
 .vscode/

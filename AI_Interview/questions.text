@@ -1,0 +1,49 @@
+1. RAG / Document Processing
+
+If 80% of two documents are the same, how would you create embeddings?
+
+Would you create separate embeddings for each document or combined embeddings?
+
+If embeddings are generated for similar documents, will duplication occur?
+
+What if both documents require different chunking strategies?
+
+2. System Design / Orchestrator
+
+If you want to implement an orchestrator over another application, how will you intelligently call multiple endpoints of that application?
+
+3. MCP + RAG Architecture
+
+Are you aware of fast MCP server tooling and RAG responses?
+
+How is RAG implemented in such systems?
+
+4. RAG Conceptual Understanding
+
+Can you explain Retrieval, Augmentation, and Generation in the RAG architecture?
+
+5. Python Core Concepts
+
+What is the Python memory model?
+
+How does Python manage memory internally?
+
+6. Coding Question
+
+Write a program to find the second largest number in a list.
+
+7. Coding Question
+
+Write a program to rotate a list by K steps.
+
+8. Python Development Experience
+
+Have you done complete development using Python?
+
+9. Scheduling / Automation
+
+What cron job or scheduling mechanism have you used?
+
+10. Real-world Scenario
+
+If you want to perform an operation periodically (e.g., checking if bookstore books are out of stock every day), how would you implement it?
