@@ -379,6 +379,61 @@ Static or dynamic data exposed to the LLM.
 | Resources | Data layer (knowledge) |
 
 ---
+## 🛠 Setup Basic AI + Tool (No MCP)
+- We’ll build: 👉 “Weather in Pune” assistant
+
+```python
+from langchain_groq import ChatGroq
+from langchain_core.messages import HumanMessage
+
+# Initialize LLM
+llm = ChatGroq(
+    model="llama-3.3-70b-versatile",
+    api_key="GROQ_API_KEY"
+)
+
+# Mock weather tool
+def get_weather(city: str):
+    return f"The weather in {city} is 30°C and sunny."
+
+# User query
+query = "What's the weather in Pune?"
+
+# Step 1: Send to LLM
+response = llm.invoke([HumanMessage(content=query)])
+
+print("LLM Response:", response.content)
+```
+🧠 Important Observation
+
+👉 Right now:
+
+LLM just gives text response
+It does NOT call your function
+
+### 🛠 Add Manual Tool Logic (THIS IS THE PROBLEM)
+- Now we force tool usage:
+
+```python
+if "weather" in query.lower():
+    result = get_weather("Pune")
+    final_prompt = f"User asked: {query}\nTool result: {result}\nGenerate final answer."
+    
+    final_response = llm.invoke([HumanMessage(content=final_prompt)])
+    print("Final Answer:", final_response.content)
+```
+❌ Now See the Problem (VERY IMPORTANT)
+👉 Problem 1: Hardcoding
+
+```python
+if "weather" in query:
+```
+👉 You decide tool, not LLM
+🧠 Interview Insight (VERY IMPORTANT)
+
+👉 You can now say:
+
+> **“Without MCP, tool usage is manually controlled using conditional logic, making the system tightly coupled, hard to scale, and preventing the LLM from autonomously selecting tools.**
 
 ## 🚀 Next Steps
 
