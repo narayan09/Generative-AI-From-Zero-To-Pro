@@ -428,12 +428,15 @@ if "weather" in query.lower():
 ```python
 if "weather" in query:
 ```
-👉 You decide tool, not LLM
-🧠 Interview Insight (VERY IMPORTANT)
+- 👉 You decide tool, not LLM
 
-👉 You can now say:
+### 🧠 Interview Insight (VERY IMPORTANT)
+
+- 👉 You can now say:
 
 > **“Without MCP, tool usage is manually controlled using conditional logic, making the system tightly coupled, hard to scale, and preventing the LLM from autonomously selecting tools.**
+
+--- 
 
 ## 🚀 Next Steps
 
