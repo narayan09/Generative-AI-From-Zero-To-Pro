@@ -440,7 +440,57 @@ if "weather" in query:
 
 ## 🚀 Next Steps
 
-- **Day 2:** Build your first MCP server (hands‑on)
+### **Day 2:** Build your first MCP server (hands‑on)
+
+# 🧠 Before Building MCP – Quick Summary
+
+> What an architect thinks before implementing an MCP system.
+
+---
+
+## 🔷 5 Thinking Steps (in order)
+
+| Step | Question |
+|------|----------|
+| 1. Use Case | What problem am I solving? What tasks need tools? |
+| 2. Tool Types | Action tools (APIs) or Data tools (DB/files)? |
+| 3. Tool Interface | What input/output? (schema mindset) |
+| 4. Architecture | Who decides? (LLM/client). Who executes? (server) |
+| 5. Separation | LLM ≠ Tool logic, Tool ≠ UI, Server ≠ Client |
+
+---
+
+## 🔁 MCP Workflow (Mental Model)
+
+> User → MCP Client (LLM) → Discovers tools (schema) → Decides tool → MCP Server → Executes tool → Returns response → LLM formats → User
+
+
+---
+
+## 🛠 Implementation Order (Real Build)
+
+1. **Define Tools** – functions like `get_weather(city)`
+2. **Define Metadata** – name, description, input schema
+3. **Build MCP Server** – register tools, execute
+4. **Build MCP Client** – send query, read tool list
+5. **LLM Decision Layer** – reads descriptions, selects tool
+6. **Tool Execution** – client → server → tool → response
+7. **Final Response** – LLM formats output
+
+---
+
+## 🔥 Interview One‑Liner
+
+**Q:** *“What do you think before building an MCP system?”*
+
+**A:**  
+> *“I first identify the use case and required tools, then define tool schemas, separate concerns between client and server, and ensure the LLM can dynamically discover and use tools through a standardized interface.”*
+
+---
+
+> Use case → Tools → Schema → Server → Client → LLM decision
+
+--- 
 
 
 Happy learning! 🎯
