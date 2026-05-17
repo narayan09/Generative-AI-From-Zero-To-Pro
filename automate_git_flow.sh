@@ -1,10 +1,4 @@
 #!/bin/bash
-<<<<<<< HEAD
-=======
-# automate_git_flow.sh
-# git checkout -b feature-login
-# Usage: ./automate_git_flow.sh feature-branch
->>>>>>> ea5fd49 (Updated git automation script)
 
 FEATURE_BRANCH="$1"
 
@@ -63,4 +57,4 @@ git merge develop
 
 git push origin "$FEATURE_BRANCH"
 
-echo "Workflow completed!"
+echo "Workflow completed!!!"
