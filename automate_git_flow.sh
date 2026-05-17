@@ -1,10 +1,6 @@
 #!/bin/bash
-<<<<<<< HEAD
-=======
-# automate_git_flow.sh
-# git checkout -b feature-login
-# Usage: ./automate_git_flow.sh feature-branch
->>>>>>> ea5fd49 (Updated git automation script)
+
+set -e
 
 FEATURE_BRANCH="$1"
 BASE_BRANCH="main"
@@ -87,30 +83,13 @@ echo "🚀 Pushing feature branch..."
 
 git push -u origin "$FEATURE_BRANCH"
 
-git checkout develop
-
-git merge "$FEATURE_BRANCH"
-
-git push origin develop
-
-git checkout main
-
-git pull origin main
-
-git merge develop
-
-git push origin main
-
-git checkout develop
-
-git merge main
-
-git push origin develop
-
-git checkout "$FEATURE_BRANCH"
-
-git merge develop
-
-git push origin "$FEATURE_BRANCH"
-
-echo "Workflow completed!"
+echo ""
+echo "✅ Feature branch synced successfully!"
+echo ""
+echo "🌐 Create Pull Request:"
+echo "https://github.com/narayan09/Generative-AI-From-Zero-To-Pro/pulls"
+echo ""
+echo "🗑️ Delete branch after merge:"
+echo "git branch -D $FEATURE_BRANCH"
+echo "git push origin --delete $FEATURE_BRANCH"
+echo ""
