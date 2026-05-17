@@ -3,7 +3,8 @@
 set -e
 
 FEATURE_BRANCH="$1"
-BASE_BRANCH="main"
+MAIN_BRANCH="main"
+DEV_BRANCH="develop"
 
 if [ -z "$FEATURE_BRANCH" ]; then
   echo "❌ Please provide feature branch name"
@@ -11,85 +12,154 @@ if [ -z "$FEATURE_BRANCH" ]; then
   exit 1
 fi
 
+echo ""
 echo "🚀 Starting workflow for branch: $FEATURE_BRANCH"
+echo ""
 
-# Verify git repository
+# Verify git repo
 if [ ! -d ".git" ]; then
-  echo "❌ Not inside a git repository"
+  echo "❌ Not inside git repository"
   exit 1
 fi
 
-# Check unresolved merge conflicts
+# Check unresolved conflicts
 if git diff --name-only --diff-filter=U | grep .; then
   echo "❌ Resolve merge conflicts first"
   exit 1
 fi
 
-# Auto save current changes BEFORE branch switch
+# Save current changes
 CURRENT_BRANCH=$(git branch --show-current)
 
 if [ -n "$(git status --porcelain)" ]; then
-  echo "📦 Saving local changes on $CURRENT_BRANCH..."
+  echo "📦 Saving local changes..."
 
   git add .
 
-  git commit -m "Auto save before sync: $(date '+%Y-%m-%d %H:%M:%S')" || true
+  git commit -m "Auto save: $(date '+%Y-%m-%d %H:%M:%S')" || true
+else
+  echo "✅ No local changes"
 fi
 
-# Fetch latest remote
-echo "📥 Fetching latest changes..."
+# Fetch latest
+echo ""
+echo "📥 Fetching latest remote changes..."
 git fetch origin
 
-# Update main branch
+# Update main
+echo ""
 echo "🔄 Updating main branch..."
-git checkout "$BASE_BRANCH"
+git checkout "$MAIN_BRANCH"
 
-git pull origin "$BASE_BRANCH"
+git pull origin "$MAIN_BRANCH"
 
 # Create or switch feature branch
+echo ""
+echo "🌿 Preparing feature branch..."
+
 if git show-ref --verify --quiet refs/heads/"$FEATURE_BRANCH"; then
-  echo "✅ Switching to existing feature branch..."
   git checkout "$FEATURE_BRANCH"
 else
-  echo "🆕 Creating new feature branch..."
   git checkout -b "$FEATURE_BRANCH"
 fi
 
-# Merge latest main
-echo "🔀 Syncing feature branch with main..."
+# Sync with latest main
+echo ""
+echo "🔀 Merging latest main into feature branch..."
 
-if ! git merge "$BASE_BRANCH"; then
-  echo ""
+git merge "$MAIN_BRANCH" || {
   echo "❌ Merge conflict detected"
-  echo "Resolve conflicts manually"
   exit 1
-fi
+}
 
-# Add latest changes
+# Commit latest changes if any
 if [ -n "$(git status --porcelain)" ]; then
-  echo "📦 Adding latest changes..."
+  echo ""
+  echo "📦 Committing latest changes..."
 
   git add .
 
-  echo "💾 Creating commit..."
-
   git commit -m "Auto update: $(date '+%Y-%m-%d %H:%M:%S')" || true
-else
-  echo "✅ No new changes"
 fi
 
 # Push feature branch
+echo ""
 echo "🚀 Pushing feature branch..."
 
 git push -u origin "$FEATURE_BRANCH"
 
 echo ""
-echo "✅ Feature branch synced successfully!"
+echo "=================================================="
+echo "Where would you like to merge feature branch?"
+echo "=================================================="
+echo "1 → main"
+echo "2 → develop"
+echo "3 → both main + develop"
+echo "4 → feature branch only"
 echo ""
-echo "🌐 Create Pull Request:"
-echo "https://github.com/narayan09/Generative-AI-From-Zero-To-Pro/pulls"
+read -p "Select option (1/2/3/4): " OPTION
+
+# Merge into main
+if [[ "$OPTION" == "1" || "$OPTION" == "3" ]]; then
+
+  echo ""
+  echo "🔄 Updating main branch..."
+
+  git checkout "$MAIN_BRANCH"
+
+  git pull origin "$MAIN_BRANCH"
+
+  echo ""
+  echo "🔀 Merging feature into main..."
+
+  git merge "$FEATURE_BRANCH"
+
+  echo ""
+  echo "🚀 Pushing main..."
+
+  git push origin "$MAIN_BRANCH"
+fi
+
+# Merge into develop
+if [[ "$OPTION" == "2" || "$OPTION" == "3" ]]; then
+
+  echo ""
+  echo "🔄 Updating develop branch..."
+
+  git checkout "$DEV_BRANCH"
+
+  git pull origin "$DEV_BRANCH"
+
+  echo ""
+  echo "🔀 Merging feature into develop..."
+
+  git merge "$FEATURE_BRANCH"
+
+  echo ""
+  echo "🚀 Pushing develop..."
+
+  git push origin "$DEV_BRANCH"
+fi
+
+# Ask delete branch
 echo ""
-echo "🗑️ Delete branch after merge:"
-echo "git branch -D $FEATURE_BRANCH"
-echo "git push origin --delete $FEATURE_BRANCH"
+read -p "🗑️ Delete feature branch after merge? (y/n): " DELETE_OPTION
+
+if [[ "$DELETE_OPTION" == "y" || "$DELETE_OPTION" == "Y" ]]; then
+
+  git checkout "$MAIN_BRANCH"
+
+  echo ""
+  echo "🗑️ Deleting local feature branch..."
+
+  git branch -D "$FEATURE_BRANCH"
+
+  echo ""
+  echo "🗑️ Deleting remote feature branch..."
+
+  git push origin --delete "$FEATURE_BRANCH"
+fi
+
+echo ""
+echo "✅ Workflow completed successfully!"
 echo ""
