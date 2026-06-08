@@ -1,211 +1,732 @@
-# 📘 RAG System + Prompt Engineering using OpenRouter (Free Models)
+# 🚀 Complete RAG (Retrieval-Augmented Generation) Course 2026
 
-## 🔥 Overview
-
-This repository contains an **end-to-end Retrieval Augmented Generation (RAG) system** built using **only free and open-source tools**.
-
-It demonstrates:
-- Core **Prompt Engineering techniques**
-- Calling LLMs using **OpenRouter.ai (free models)**
-- Document ingestion (TXT + PDF)
-- Chunking & embeddings
-- SQLite-based knowledge base
-- Source attribution (answer traceability)
-- **FastAPI backend**
-- **Streamlit UI**
-
-❌ No paid APIs  
-❌ No vendor lock-in  
-✅ Interview & production ready  
+> A comprehensive roadmap from **RAG fundamentals** to **Production-Ready Agentic RAG Systems**
 
 ---
 
-## 🧠 Prompt Engineering Techniques Covered
+# 📚 Course Overview
+
+This course is designed to take learners from **beginner to advanced** in modern RAG systems.
+
+By the end of this course, students will be able to build:
+
+* PDF Chatbots
+* Knowledge Base Assistants
+* Multi-Document RAG Systems
+* Graph RAG Applications
+* Agentic RAG Systems
+* Production-Ready AI Applications
+
+---
+
+# 🏗 Course Structure
 
-### 1️⃣ Zero-Shot Prompting
-No examples, only instruction.
+```text
+Foundation
+    ↓
+Embeddings
+    ↓
+Vector Search
+    ↓
+Chunking
+    ↓
+Vector Databases
+    ↓
+First RAG System
+    ↓
+Advanced Retrieval
+    ↓
+Hybrid Search
+    ↓
+Reranking
+    ↓
+Graph RAG
+    ↓
+Agentic RAG
+    ↓
+Evaluation
+    ↓
+Production Deployment
+```
 
+---
 
-### Explain chunking in RAG systems.
-## OpenRouter LLM Integration
-## Why OpenRouter?
+# Module 1: Introduction to Generative AI and RAG
 
-   Free access to models
+## Topics
 
-   OpenAI-compatible API
+* What is Generative AI?
+* What are LLMs?
+* Limitations of LLMs
+* Hallucinations
+* Knowledge Cutoff
+* Why RAG?
+* Components of RAG
+* RAG Architecture
+* Real-world Applications
 
-   Easy model switching
+### Hands-on Project
 
-## Model Used
-   openai/gpt-3.5-turbo
+✅ Simple AI Chatbot
 
-## LLM Call Flow
-User Question
-   ↓
-Prompt Builder
-   ↓
-OpenRouter API
-   ↓
-LLM Response
+---
 
-## 🔐 Environment Setup
-   .env
-      OPENROUTER_API_KEY=sk-xxxx
-   OPENROUTER_URL=https://openrouter.ai/api/v1/chat/completions
+# Module 2: Understanding Embeddings
 
-## .gitignore
-   .env
-   __pycache__/
-   *.db
+## Topics
 
-## 📄 Document Ingestion
+* What are Embeddings?
+* Semantic Representation
+* Tokenization
+* Token IDs
+* Transformer Basics
+* Attention Mechanism
+* Sentence Embeddings
+* Embedding Models
 
-Supported formats:
+### Popular Models
 
-.txt
+* all-MiniLM-L6-v2
+* BGE Models
+* Nomic Embed
+* OpenAI Embeddings
 
-.pdf
+### Hands-on Project
 
-Dummy knowledge files:
+✅ Generate and Visualize Embeddings
 
-docs/
- ├── ai_basics.txt
- ├── rag_intro.txt
- ├── embeddings.txt
- ├── llm_working.txt
- └── fastapi_notes.txt
+---
 
+# Module 3: Vector Similarity and Search
 
-PDF parsing is done using PyPDF2.
+## Topics
 
-✂️ Chunking (WHY & HOW)
-Why Chunking?
+* Vector Similarity
+* Cosine Similarity
+* Euclidean Distance
+* Dot Product
+* Nearest Neighbor Search
+* Approximate Nearest Neighbor (ANN)
+* HNSW
+* IVF
+* Product Quantization
 
-LLM context window limits
+### Hands-on Project
 
-Better semantic matching
+✅ Build Semantic Search Engine
 
-Improved retrieval accuracy
+---
 
-How?
-chunk_size = 500
-overlap = 50
+# Module 4: Chunking Strategies
 
+## Topics
 
-Each chunk stores:
+* Why Chunking Matters
+* Chunk Size
+* Chunk Overlap
+* Fixed Chunking
+* Recursive Chunking
+* Token-Based Chunking
+* Semantic Chunking
+* Sliding Window Chunking
 
-text
+### Hands-on Project
 
-source file
+✅ Compare Chunking Strategies
 
-chunk index
+---
 
-🧮 Embeddings (WHY & HOW)
-Why Embeddings?
+# Module 5: Vector Databases
 
-LLMs cannot directly search text.
+## Topics
 
-Embeddings convert text into vectors so we can:
+* Vector Database Fundamentals
+* Indexing
+* Metadata Filtering
+* Similarity Search
+* Persistence
 
-Perform similarity search
+### Databases
 
-Retrieve relevant context
+* ChromaDB
+* FAISS
+* Qdrant
+* Pinecone
+* Milvus
+* Weaviate
 
-Flow
-Text Chunk
-   ↓
-Embedding
-   ↓
-Vector
-   ↓
-SQLite DB
+### Hands-on Project
 
-🗃 SQLite Knowledge Base
-Tables
-documents(id, content, source)
-embeddings(id, vector, document_id)
+✅ Store and Retrieve Embeddings
 
-Why SQLite?
+---
 
-Lightweight
+# Module 6: Document Loaders
 
-No server needed
+## Topics
 
-Ideal for local & demo RAG systems
+* Data Ingestion Pipeline
+* PDF Parsing
+* DOCX Parsing
+* TXT Files
+* CSV Files
+* Excel Files
+* JSON Files
+* HTML Documents
+* Websites
 
-🔍 Retrieval Process (RAG Core)
-User Question
-   ↓
-Question Embedding
-   ↓
-Similarity Search (Top-K)
-   ↓
-Relevant Chunks
-   ↓
-Prompt Injection
-   ↓
-LLM Answer
+### Libraries
 
-🧾 Source Attribution
+* PyPDF
+* Unstructured
+* BeautifulSoup
 
-Each chunk includes metadata:
+### Hands-on Project
 
-filename
+✅ Build Document Loader
 
-page number (PDF)
+---
 
-chunk index
+# Module 7: Build Your First RAG System
 
-Final response contains:
+## Architecture
 
-Answer + Source file name
+```text
+Documents
+    ↓
+Chunking
+    ↓
+Embeddings
+    ↓
+Vector Database
+    ↓
+Retriever
+    ↓
+LLM
+    ↓
+Response
+```
 
+### Hands-on Project
 
-Benefits:
+✅ PDF Chatbot
 
-Explainability
+---
 
-Debugging
+# Module 8: LangChain Fundamentals
 
-Trustworthy AI
+## Topics
 
-⚙️ FastAPI Backend
-Endpoints
-/ingest
+* LCEL
+* Chains
+* Prompt Templates
+* Output Parsers
+* Runnable Interface
+* Retrievers
 
-Reads documents
+### Hands-on Project
 
-Chunks text
+✅ RAG with LangChain
 
-Stores embeddings
+---
 
-/ask
+# Module 9: LlamaIndex Fundamentals
 
-Accepts user question
+## Topics
 
-Performs RAG
+* Documents
+* Nodes
+* Indexes
+* Query Engine
+* Retriever
+* Response Synthesizer
 
-Returns answer + source
+### Hands-on Project
 
-FastAPI provides scalability and production readiness.
+✅ PDF Assistant using LlamaIndex
 
-🖥 Streamlit UI
+---
 
-Features:
+# Module 10: Prompt Engineering for RAG
 
-Upload documents
+## Topics
 
-Ask questions
+* Context Injection
+* System Prompts
+* Few-shot Prompting
+* Chain of Thought
+* Role Prompting
+* Structured Outputs
 
-View answers
+### Hands-on Project
 
-See source attribution
+✅ Improve Answer Quality
 
-Why Streamlit?
+---
 
-Fast prototyping
+# Module 11: Retrieval Strategies
 
-ML-friendly
+## Topics
 
-Perfect for demos
+* Similarity Search
+* Top-K Retrieval
+* MMR Retrieval
+* Parent-Child Retrieval
+* Contextual Retrieval
+* Multi-Query Retrieval
+* Self-Query Retrieval
 
+### Hands-on Project
+
+✅ Compare Retrieval Methods
+
+---
+
+# Module 12: Hybrid Search
+
+## Topics
+
+* Sparse Retrieval
+* Dense Retrieval
+* BM25
+* Hybrid Search
+* Ranking Techniques
+
+### Hands-on Project
+
+✅ Hybrid Search Engine
+
+---
+
+# Module 13: Reranking
+
+## Topics
+
+* Cross Encoder
+* Bi Encoder
+* BGE Reranker
+* Cohere Reranker
+
+### Hands-on Project
+
+✅ Improve Retrieval Accuracy
+
+---
+
+# Module 14: Metadata Filtering
+
+## Topics
+
+* Metadata Design
+* Source Filtering
+* Time Filtering
+* Category Filtering
+
+### Hands-on Project
+
+✅ Intelligent Document Search
+
+---
+
+# Module 15: Advanced Chunking
+
+## Topics
+
+* Semantic Chunking
+* Hierarchical Chunking
+* Parent-Child Chunking
+* Adaptive Chunking
+
+### Hands-on Project
+
+✅ Optimize Retrieval Performance
+
+---
+
+# Module 16: Multi-Document RAG
+
+## Topics
+
+* Multiple PDFs
+* Collections
+* Source Tracking
+* Citations
+
+### Hands-on Project
+
+✅ Knowledge Base Assistant
+
+---
+
+# Module 17: Multimodal RAG
+
+## Topics
+
+* OCR
+* Image Embeddings
+* Tables
+* Charts
+* Vision Models
+
+### Hands-on Project
+
+✅ Image + PDF RAG
+
+---
+
+# Module 18: Graph RAG
+
+## Topics
+
+* Knowledge Graphs
+* Nodes and Edges
+* Entity Extraction
+* Relationship Extraction
+* Graph Traversal
+
+### Tools
+
+* Neo4j
+* NetworkX
+
+### Hands-on Project
+
+✅ Graph-Based RAG
+
+---
+
+# Module 19: Agentic RAG
+
+## Topics
+
+* Tool Calling
+* Planning
+* Reflection
+* Memory
+* Multi-step Reasoning
+
+### Frameworks
+
+* LangGraph
+* CrewAI
+* AutoGen
+
+### Hands-on Project
+
+✅ Research Assistant
+
+---
+
+# Module 20: Multi-Agent Systems
+
+## Topics
+
+* Planner Agent
+* Retriever Agent
+* Evaluator Agent
+* Writer Agent
+
+### Hands-on Project
+
+✅ Multi-Agent RAG
+
+---
+
+# Module 21: Memory Systems
+
+## Topics
+
+* Session Memory
+* Conversation History
+* Long-term Memory
+* Short-term Memory
+
+### Hands-on Project
+
+✅ Memory-enabled Chatbot
+
+---
+
+# Module 22: Evaluation and Observability
+
+## Topics
+
+* Precision
+* Recall
+* Faithfulness
+* Hallucination Detection
+* Context Relevance
+
+### Frameworks
+
+* RAGAS
+* TruLens
+* DeepEval
+
+### Hands-on Project
+
+✅ Evaluate RAG Quality
+
+---
+
+# Module 23: FastAPI for RAG
+
+## Topics
+
+* REST APIs
+* Upload APIs
+* Query APIs
+* Streaming Responses
+
+### Hands-on Project
+
+✅ Backend Service
+
+---
+
+# Module 24: Streamlit Frontend
+
+## Topics
+
+* File Upload
+* Chat UI
+* Session State
+
+### Hands-on Project
+
+✅ Full Chat Interface
+
+---
+
+# Module 25: Production Vector Databases
+
+## Topics
+
+* Qdrant
+* Pinecone
+* Milvus
+
+### Hands-on Project
+
+✅ Production Deployment
+
+---
+
+# Module 26: Performance Optimization
+
+## Topics
+
+* Caching
+* Batch Embeddings
+* Async Processing
+* Parallel Ingestion
+* Token Optimization
+
+### Hands-on Project
+
+✅ Low-Latency RAG
+
+---
+
+# Module 27: Local LLMs
+
+## Topics
+
+* Ollama
+* Llama 3
+* Qwen
+* Mistral
+
+### Hands-on Project
+
+✅ Fully Offline RAG
+
+---
+
+# Module 28: Cloud Models
+
+## Topics
+
+* OpenAI
+* Gemini
+* Claude
+
+### Hands-on Project
+
+✅ Multi-Provider Architecture
+
+---
+
+# Module 29: Security and Guardrails
+
+## Topics
+
+* Prompt Injection
+* Jailbreak Prevention
+* Data Leakage
+* Access Control
+
+### Hands-on Project
+
+✅ Secure RAG Assistant
+
+---
+
+# Module 30: Production Architecture
+
+## Topics
+
+* Redis
+* Celery
+* Docker
+* Kubernetes
+* Microservices
+
+### Hands-on Project
+
+✅ Production-Scale AI System
+
+---
+
+# 🎓 Capstone Projects
+
+## Beginner
+
+* PDF Chatbot
+* Website RAG
+* CSV RAG
+* Excel Assistant
+
+## Intermediate
+
+* Multi-PDF Knowledge Base
+* HR Assistant
+* Research Assistant
+
+## Advanced
+
+* Legal Document Assistant
+* Codebase RAG
+* Graph RAG
+* Agentic RAG System
+
+---
+
+# ⭐ Bonus Modules
+
+## MCP (Model Context Protocol)
+
+* MCP Fundamentals
+* Tools and Resources
+* MCP Servers
+* RAG + MCP Integration
+
+---
+
+## LangGraph
+
+* State Management
+* Nodes
+* Edges
+* Conditional Routing
+
+---
+
+## AI Agents
+
+* Function Calling
+* Structured Outputs
+* Tool Usage
+* Memory
+
+---
+
+## Fine-Tuning vs RAG
+
+* When to use RAG
+* When to Fine-tune
+* Hybrid Approaches
+
+---
+
+# 🔥 Advanced RAG Patterns
+
+* Naive RAG
+* Advanced RAG
+* Hybrid RAG
+* Corrective RAG (CRAG)
+* Self-RAG
+* Graph RAG
+* Agentic RAG
+
+---
+
+# 🛠 Technologies Covered
+
+### Languages
+
+* Python
+
+### Frameworks
+
+* LangChain
+* LlamaIndex
+* FastAPI
+* Streamlit
+
+### Vector Databases
+
+* ChromaDB
+* Qdrant
+* Pinecone
+* Milvus
+* Weaviate
+* FAISS
+
+### Agent Frameworks
+
+* LangGraph
+* CrewAI
+* AutoGen
+
+### Evaluation
+
+* RAGAS
+* TruLens
+* DeepEval
+
+### Deployment
+
+* Docker
+* Kubernetes
+* Redis
+* Celery
+
+---
+
+# 🚀 Learning Outcome
+
+By the end of this course, students will be able to:
+
+* Understand RAG internals deeply.
+* Build production-ready RAG applications.
+* Implement Hybrid Search and Reranking.
+* Build Graph RAG systems.
+* Create Agentic AI workflows.
+* Evaluate and optimize RAG quality.
+* Deploy scalable AI systems.
+
+---
+
+# ⭐ Ideal For
+
+* Python Developers
+* Backend Engineers
+* Data Scientists
+* ML Engineers
+* GenAI Engineers
+* AI Architects
+
+---
+
+# Happy Learning! 🚀
