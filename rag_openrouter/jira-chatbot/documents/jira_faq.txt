@@ -1,0 +1,39 @@
+# Jira FAQ
+
+## What is an Epic in Jira?
+An Epic is a large body of work that can be broken down into multiple smaller tasks (called Stories or Tasks). Epics are used to organise work around a common goal, theme, or feature. In Jira, Epics have a special issue type and can span multiple sprints.
+
+## How do I create a Sprint?
+To create a Sprint:
+1. Go to your Scrum board.
+2. Click the "Backlog" tab.
+3. Click "Create Sprint" at the top of the backlog.
+4. Drag and drop issues from the backlog into the Sprint.
+5. Click "Start Sprint" and set the duration.
+
+## What is the difference between a Bug and a Task?
+A Bug represents a defect or flaw in the product, while a Task is a unit of work that needs to be completed (e.g., implementation, documentation). Bugs are often prioritised separately and tracked differently.
+
+## How to assign an issue to a user?
+Open the issue, click the "Assignee" field (usually top-right), and select a user from the drop-down list. You can also type a name to search. If the user is not in the list, they may not have permission to be assigned in that project.
+
+## What are the default priority levels?
+Jira provides five default priority levels:
+- Blocker
+- Critical
+- Major
+- Minor
+- Trivial
+These can be customised by administrators.
+
+## How do I search for all issues assigned to me?
+Use the JQL (Jira Query Language) query: `assignee = currentUser()`. You can also use the "My open issues" gadget on your dashboard.
+
+## What is a Jira workflow?
+A workflow represents the lifecycle of an issue. It consists of statuses (e.g., Open, In Progress, Done) and transitions between them. Each project can have a custom workflow.
+
+## How can I add a comment to an issue?
+Open the issue, scroll to the "Activity" section, click "Comment", type your text, and click "Save". You can also use `@mentions` to notify other users.
+
+## What is a Component in Jira?
+A Component is a sub‑section of a project used to group issues related to a specific module, feature, or team. Components can have a default assignee.

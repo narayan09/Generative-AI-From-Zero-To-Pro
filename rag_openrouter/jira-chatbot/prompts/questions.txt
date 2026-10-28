@@ -1,0 +1,45 @@
+Database (SQL) Mode
+
+For queries that retrieve, count, aggregate, or filter Jira tickets.
+
+#	Question	What it tests
+1	How many open bugs are there?	Simple JOIN + COUNT, filter by status and type
+2	Show me all issues assigned to "John Doe" that are still open.	Name lookup, join users, filter status
+3	List the top 5 projects with the most issues.	GROUP BY, COUNT, ORDER BY, LIMIT
+4	What is the average resolution time (in days) for closed issues?	DATEDIFF, AVG, status filter
+5	Which user has reported the most bugs?	GROUP BY reporter, COUNT, filter type='Bug'
+6	List all issues created last week.	Date calculation (CURRENT_DATE – 7)
+7	How many issues are currently overdue? (due_date < now, not closed)	Date comparison, NULL handling
+8	What are the titles of all "Critical" priority tickets?	JOIN priorities, filter by priority_name
+9	Show me all comments written by "Alice Smith" on unresolved issues.	Multi‑table JOIN (comments → issues → users)
+10	Which project has the highest percentage of "Blocker" tickets?	Subquery or window function – more challenging
+Tip: The LLM may occasionally need a retry; if a query returns an error, try rephrasing (e.g., use “summary” instead of “title”).
+
+📄 Document (RAG) Mode
+
+These questions are answered from the jira_faq.txt document you ingested.
+
+#	Question	Expected source
+1	What is an Epic in Jira?	Direct definition from the FAQ
+2	How do I create a Sprint?	Step‑by‑step instructions
+3	Explain the difference between a Bug and a Task.	FAQ section on issue types
+4	How can I assign an issue to another person?	“How to assign an issue to a user”
+5	List the default priority levels in Jira.	Five priority names from the FAQ
+6	What is the JQL query to find my open issues?	“assignee = currentUser()”
+7	Describe a Jira workflow.	Workflow explanation
+8	How do I add a comment to a ticket?	Comment steps, including @mentions
+9	What is a Component in Jira?	Definition and purpose
+10	I’m new to Jira. What’s the first thing I should learn?	Might combine multiple chunks (Epic, Sprint, etc.)
+Note: Because the RAG mode answers strictly from the provided document, if you ask something outside that file (e.g., “Who is the CEO of Atlassian?”) it should reply “I don’t know”. Try it – it’s a good test of the guardrails.
+
+💡 Creative Mixed‑Mode Prompts (If you implement Auto mode)
+
+You could ask a question that starts with a database query and then asks for explanation, e.g.:
+“Show me all blockers and explain what a Blocker means in Jira.”
+(A future enhancement could route this to SQL first, then RAG.)
+
+
+rm -rf chroma_db
+python ingest_documents.py
+
+/Users/narayan_mishra/Downloads/gemini-code.py

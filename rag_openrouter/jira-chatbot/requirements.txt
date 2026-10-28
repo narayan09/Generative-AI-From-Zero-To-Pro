@@ -1,0 +1,12 @@
+mysql-connector-python
+python-dotenv
+faker
+streamlit
+ollama
+openai
+pandas
+tabulate
+chromadb
+sentence-transformers
+pypdf
+# langchain (optional, we'll implement things from scratch for transparency)

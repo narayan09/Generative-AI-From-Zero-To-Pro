@@ -1,4 +1,5 @@
 #!/bin/bash
+#./automate_git_flow.sh 08062026
 
 set -e
 
